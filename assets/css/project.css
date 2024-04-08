@@ -1,0 +1,15 @@
+.project_frame{
+    display: flex;
+    flex-direction: column;
+    margin-left: 6em;
+    margin-right: 6em;
+    margin-top: 6em;
+}
+.basket_size{
+    margin-left: 20em;
+    margin-right: 20em;
+}
+h1{
+
+    text-align: center;
+}
